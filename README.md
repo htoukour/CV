@@ -1,2 +1,2 @@
 # CV
-Computer Vison : Researches and Applications
+Computer Vision : Researches and Applications
